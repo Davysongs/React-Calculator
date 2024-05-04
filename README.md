@@ -22,11 +22,11 @@ To get started with this project, you'll need to have Node.js and npm installed 
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/davysongs/React-Calculator
    ```
 2. Navigate to the project directory:
    ```bash
-   cd <project-directory>
+   cd React-Calculator
    ```
 3. Install the required dependencies:
    ```bash
